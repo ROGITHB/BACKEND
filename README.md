@@ -54,14 +54,7 @@ http://localhost:3000/api/v1/user/login
 ·
 ﻿
 
-Body
-raw (json)
-json
-{
-    "email": "rogithbalakrishnan@gmail.com",
-    "password":"12345678"
-}
-GET
+
 GET PROFILE
 http://localhost:3000/api/v1/user/me
 
