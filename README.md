@@ -1,11 +1,6 @@
 
-﻿ChatGPT 4o mini
-
-Log in
-You said:
-Mern Auction platform backend introduction 
-ChatGPT said:
-ChatGPT
+﻿Introduction:
+ 
 A MERN Auction Platform Backend refers to the server-side architecture of an online auction platform built using the MERN stack—which consists of MongoDB, Express.js, React, and Node.js. In this context, the backend is responsible for handling the business logic, database management, user authentication, and API requests. Here's an introduction to the key components involved in building the backend for an auction platform:
 
 1. Node.js (Server Environment)
